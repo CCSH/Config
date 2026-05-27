@@ -7,7 +7,6 @@
 "logo":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{name}.png",
 "epg_xml":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz",
 "line":[
-{"name":"巧技","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
 {"name":"Cat","url":"https://tvbox.catvod.com/catvod.json"},
 {"name":"PG","url":"https://tvbox.catvod.com/jsm.json"},
