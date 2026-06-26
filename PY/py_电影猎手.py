@@ -118,20 +118,7 @@ class Spider(Spider):
         bba = self.url(body)
         url = f'{self.host}/api/v1/movie/detail?pack={bba[0]}&signature={bba[1]}'
         data = self.fetch(url, headers=self.header()).json()['data']
-        actors = [member["name"] for member in data.get("members", [])]
-        tags = [tag["name"] for tag in data.get("tags", [])]
-        video = {
-            'vod_id':ids[0],
-            "vod_pic":data.get('cover'),
-            'vod_actor':",".join(actors), 
-            'vod_director':data.get('score'),
-            'vod_lang':data.get("type_name"),
-            'vod_name': data.get('name'),
-            'type_name': ",".join(tags),
-            'vod_year': data.get('year'),
-            'vod_area': data.get('area'),
-            'vod_remarks': data.get('dynami'),
-            'vod_content': data.get('content')}
+        video = {'vod_name': data.get('name'),'type_name': data.get('type_name'),'vod_year': data.get('year'),'vod_area': data.get('area'),'vod_remarks': data.get('dynami'),'vod_content': data.get('content')}
         play = []
         names = []
         tasks = []
