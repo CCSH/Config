@@ -155,23 +155,17 @@ class Spider(Spider):
         res.encoding = "utf-8"
 
         json_dict = json.loads(res.text)
-        play_from = '播放'
         purl = json_dict['data']["result"]["vod_url"]
         if svid:
             link_map = js1['data']['macVodLinkMap'][svid]
             vod_url = json_dict['data']["result"]["vod_url"]
-            
             # 收集有效链接
             valid_links = []
-            valid_names = []
             
             for key, name in [('LINK_2', '播放1'), ('LINK_1', '播放2'), ('LINK_3', '播放3')]:
                 if link_map.get(key):
-                    valid_links.append(link_map[key] + vod_url)
-                    valid_names.append(name)
-            
-            purl = "$$$".join(valid_links)
-            play_from = "$$$".join(valid_names)
+                    valid_links.append(f"{name}${link_map[key]}{vod_url}")
+            purl = "#".join(valid_links)
             
         videos.append({
             "vod_id": did,
@@ -184,7 +178,7 @@ class Spider(Spider):
             "vod_actor": "",
             "vod_director": "",
             "vod_content": json_dict["data"]["result"]["vod_name"],
-            "vod_play_from": play_from,
+            "vod_play_from": "播放",
             "vod_play_url": purl
         })
 
