@@ -162,7 +162,7 @@ class Spider(Spider):
             # 收集有效链接
             valid_links = []
             
-            for key, name in [('LINK_2', '播放1'), ('LINK_1', '播放2'), ('LINK_3', '播放3')]:
+            for key, name in [('LINK_1', '播放1'), ('LINK_2', '播放2'), ('LINK_3', '播放3')]:
                 if link_map.get(key):
                     valid_links.append(f"{name}${link_map[key]}{vod_url}")
             purl = "#".join(valid_links)
