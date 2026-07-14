@@ -12,7 +12,39 @@
 {"api":"csp_CC","key":"网易CC(爬)","type":3,"name":"网易CC(爬)"},
 {"api":"csp_BiliLive","key":"B站直播(爬)","type":3,"name":"B站直播(爬)","ext":{"line":["https://live.ottiptv.cc/bilibili/"]}},
 {"api":"csp_Bili","ext":{"type":"生活#日常#出行#搞笑#娱乐#一口气#解说#综艺#韩综#美食#集锦#音乐"},"key":"B站(爬)","type":3,"name":"B站(爬)"},
-{"api":"py_","ext":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/Config/refs/heads/dev/PY/py_电影猎手.py","key":"电影猎手(PY)","type":3,"name":"电影猎手(PY)"},
+ {
+      "key" : "世界杯直播",
+      "name" : "世界杯直播",
+      "type" : 1,
+      "api" : "https://jsnzkpg.us.ci"
+    },
+    {
+      "key" : "体育赛事",
+      "name" : "体育赛事",
+      "type" : 1,
+      "api" : "https://jsnzkpg.dpdns.org"
+    },
+ {
+      "key" : "奈飞4K",
+      "name" : "奈飞4K",
+      "type" : 1,
+      "api" : "https://api.wsyzy.net/api.php/provide/vod",
+      "categories" : [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
+	    {
+      "key" : "暴风采集",
+      "name" : "暴风采集",
+      "type" : 1,
+      "api" : "http://by.bfzyapi.com/api.php/provide/vod"
+		},    {
+      "key" : "如意采集",
+      "name" : "如意采集",
+      "type" : 1,
+      "api" : "https://cj.rycjapi.com/api.php/provide/vod"},
 {"api":"csp_Jpyy","key":"金牌影院(爬)","type":3,"name":"金牌影院(爬)"},
 {"api":"csp_Nmys","key":"农民(爬)","type":3,"name":"农民(爬)"},
 {"api":"csp_Btt","key":"两个BT(爬)","type":3,"name":"两个BT(爬)","ext":"https://www.bttwo.me/"},
