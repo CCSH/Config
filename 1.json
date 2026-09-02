@@ -12,7 +12,6 @@
 {"api":"csp_CC","key":"网易CC(爬)","type":3,"name":"网易CC(爬)"},
 {"api":"csp_BiliLive","key":"B站直播(爬)","type":3,"name":"B站直播(爬)","ext":{"line":["https://live.ottiptv.cc/bilibili/"]}},
 {"api":"csp_Bili","ext":{"type":"生活#日常#出行#搞笑#娱乐#一口气#解说#综艺#韩综#美食#集锦#音乐"},"key":"B站(爬)","type":3,"name":"B站(爬)"},
-{"api":"csp_Jpyy","key":"金牌影院(爬)","type":3,"name":"金牌影院(爬)","ext":"https://www.vv3nwjk.com"},
 {"api":"csp_Nmys","key":"农民(爬)","type":3,"name":"农民(爬)"},
 {"api":"csp_Btt","key":"两个BT(爬)","type":3,"name":"两个BT(爬)","ext":"https://www.bttwo.top/"},
 {"api":"csp_Module","key":"555(爬)","type":3,"name":"555(爬)","ext":"https://www.555k41.com/"},
