@@ -3,7 +3,7 @@
 "spider_2":"https://ghfast.top/https://github.com/bizhangjie/CatVodSpider/raw/main/jar/custom_spider.jar",
 "sites":[
 {"api":"py_","ext":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/Config/refs/heads/dev/PY/18/熊猫.py","key":"熊猫(PY)","type":3,"name":"熊猫(PY)"},
-{"api":"https://91md.me/api.php/provide/vod/at/json","key":"91麻豆(18)","name":"91麻豆(18)","type":1},
+{"api":"https://91md.me/api.php/provide/vod/at/xml","key":"91麻豆(18)","name":"91麻豆(18)","type":2},
 {"api":"csp_Doll","key":"玩偶","name":"玩偶","type":3},
 {"api":"csp_Njav","key":"Njav","name":"Njav","type":3},
 {
@@ -943,7 +943,7 @@
 {"api":"https://api.apilyzy.com/api.php/provide/vod/","key":"老鸭资源(18)","name":"老鸭资源(18)","type":1},
 {"api":"https://www.xrbsp.com/api/json.php","key":"淫水机资源(18)","name":"淫水机资源(18)","type":1},
 {"api":"http://fhapi9.com/api.php/provide/vod/","key":"*番号","name":"*番号","type":1},
-{"api":"https://155api.com/api.php/provide/vod/","key":"🔥sese采集🔥","categories":["无码专区","强奸乱伦","麻豆传媒","制服诱惑","三级伦理","AI换脸","中文字幕","欧美系列","国产自拍","熟女人妻","露出激情","欧美风情","丝袜美腿","萝莉少女","女同性爱","多人群交","不偷恋情","学生校园","人妻熟女","明星偶像","美乳巨乳","网友自拍","女优明星","欧美无码"],"type":1,"playerType":"2","name":"🔥sese采集🔥"},
+{"api":"https://155api.com/api.php/provide/vod/","key":"🔥sese采集🔥","type":1,"name":"🔥sese采集🔥"},
 {"api":"https://jkunzyapi.com/api.php/provide/vod/","key":"🔞鸡坤资源","name":"🔞鸡坤资源","type":1},
 {"api":"https://www.pgxdy.com/api/json.php","key":"黄AV资源(18)","name":"黄AV资源(18)","type":1},
 {"api":"https://www.gdlsp.com/api/json.php","key":"香奶儿资源(18)","name":"香奶儿资源(18)","type":1},
