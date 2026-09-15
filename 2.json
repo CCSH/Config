@@ -6,7 +6,7 @@
 {"api":"https://91md.me/api.php/provide/vod/at/xml","key":"91麻豆(18)","name":"91麻豆(18)","type":2},
 {"api":"csp_Doll","key":"玩偶","name":"玩偶","type":3},
 {"api":"csp_Njav","key":"Njav","name":"Njav","type":3},
-      {"key":"Boba影视","name":"Boba影视","type":0,"api":"http://150.109.94.44:1112/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+{"key":"Boba影视","name":"Boba影视","type":0,"api":"http://150.109.94.44:1112/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"大地资源","name":"大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1},
 {"key":"杏吧资源","name":"杏吧资源","type":1,"api":"https://xingba111.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
@@ -21,7 +21,6 @@
 {"key":"大奶","name":"大奶","type":1,"api":"https://apidanaizi.com/api.php/provide/vod/?ac=list/","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
 {"key": "红桃视频","name": "红桃视频","type": 1,"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable":1},
 {"key":"一滴","name":"一滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1,"changeable":1},
-
 {
       "key": "J91",
       "name": "\uD83D\uDD1E 91 | 珍惜",
