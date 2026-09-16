@@ -2,7 +2,7 @@
 "ver":"",
 "download":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/Config/refs/heads/dev/1.apk",
 "epg":[
-"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+"http://epg.51zmt.top:8000/api/diyp/"
 ],
 "logo":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{name}.png",
 "epg_xml":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz",
