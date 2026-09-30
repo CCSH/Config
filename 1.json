@@ -137,7 +137,6 @@
 {"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/"},
 {"key":"阿里影视","name":"阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/"},
 {"key":"无尽资源","name":"无尽资源","type":1,"api":"https://api.wujinapi.me/api.php/provide/vod/"},
-{"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/"},
 {"key":"探探资源","name":"探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/"},
 {"key":"老鸭","name":"老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/"},
 {"key":"闪电","name":"闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod/"},
