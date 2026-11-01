@@ -13,6 +13,8 @@
 {"api":"csp_BiliLive","key":"B站直播(爬)","type":3,"name":"B站直播(爬)","ext":{"line":["https://live.ottiptv.cc/bilibili/"]}},
 {"api":"csp_Bili","ext":{"type":"生活#日常#出行#搞笑#娱乐#一口气#解说#综艺#韩综#美食#集锦#音乐"},"key":"B站(爬)","type":3,"name":"B站(爬)"},
 {"api":"csp_Nmys","key":"农民(爬)","type":3,"name":"农民(爬)"},
+{"api":"csp_Jpyy","key":"金牌(爬)","type":3,"name":"金牌(爬)","ext":"https://y2s52n7.com/"},
+{"api":"csp_Jpyy","key":"金牌2(爬)","type":3,"name":"金牌2(爬)","ext":"ccsh2$$$https://ivdy.com/"},
 {"api":"csp_Module","key":"555(爬)","type":3,"name":"555(爬)","ext":"https://www.555k41.com/"},
 {"api":"csp_Module","ext":"https://vidhub.tv/","key":"VidHub(爬)","type":3,"name":"VidHub(爬)"},
 {"api":"csp_Module","ext":{"site":"https://ysxq.cc/","category":"/vodshow/"},"key":"播剧网(爬)","type":3,"name":"播剧网(爬)"},
