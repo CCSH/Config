@@ -7,9 +7,54 @@
 "logo":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{name}.png",
 "epg_xml":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz",
 "line":[
-{"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
-{"name":"Cat","url":"https://tvbox.catvod.com/catvod.json"},
-{"name":"PG","url":"https://tvbox.catvod.com/jsm.json"},
-{"name":"潇洒","url":"https://tvbox.catvod.com/xs/api.json"}
+{"name":"小苹果","url":"https://ghfast.top/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/xpg2.json"},
+{"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
+   {
+      "url": "https://6800.kstore.vip/fish.json",
+      "name": "🍎小苹果┃摸鱼线路"
+    },
+    {
+      "url": "http://fty.888484.xyz/tv",
+      "name": "🍎小苹果┃饭太硬线路"
+    },
+    {
+       "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json",
+       "name": "🍎小苹果┃小米线路"
+    }, 
+
+    {
+      "url": "http://肥猫.net/",
+      "name": "🍎小苹果┃肥猫线路"
+    },    
+    {
+      "url": "https://9877.kstore.space/sun.json",
+      "name": "🍎小苹果┃潇洒线路"
+    },
+    {
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🍎小苹果┃真心线路"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "🍎小苹果┃虎斑线路"
+    },
+
+    {
+      "url": "http://lgz.sld.tw/donglitv/api.json",
+      "name": "🍎小苹果┃东篱线路"
+    },
+    {
+      "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+      "name": "🍎小苹果┃俊佬线路"
+    },
+    
+        {
+      "url": "http://www.英格里希嗷呜.top/tv",
+      "name": "🍎小苹果┃嗷呜线路"
+    },
+    {
+      "url": "https://kong88.dpdns.org/4k.json",
+      "name": "🍎小苹果┃空空4K线路"
+    }
 ]
 }
